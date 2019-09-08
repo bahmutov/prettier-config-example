@@ -1,5 +1,8 @@
 console.log("project A index JavaScript file");
 const o = {
-    name: "Joe",
-    age: 21
+    name: "Gleb",
+    age: 39,
+    hacker: true,
+    twitter: "@bahmutov",
+    site: "https://gleb.dev"
 };
