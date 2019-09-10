@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write 'projectA/*.js' 'projectB/*.js'",
-    "lint": "eslint 'projectC/*.js'"
+    "lint": "eslint 'projectC/*.js'",
+    "check": "prettier --check 'projectA/*.js' 'projectB/*.js'"
   },
   "repository": {
     "type": "git",
