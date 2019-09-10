@@ -1,0 +1,3 @@
+# do not run Prettier against JavaScript files
+# in "snapshots/" folders
+**/snapshots/*.js
